@@ -1,0 +1,86 @@
+#: locale=es
+
+## Acción
+
+### URL
+PopupWebFrameBehaviour_5DFEA299_D459_4EF7_41D1_51605CB7022C.url = https://web-grupoeurosa.vercel.app/ar/producto/top?color=TOPN
+WebFrame_FE6AF0B6_D429_CA3D_41D3_13966BD5FDDE.url = https://web-grupoeurosa.vercel.app/ar/producto/top?color=TOPN
+PopupWebFrameBehaviour_BB2493D6_D438_CE7C_41B7_C700724FE28B.url = https://web-grupoeurosa.vercel.app/ar/producto/top?color=TOPN
+PopupWebFrameBehaviour_BF68364F_D438_B66B_41CC_5A6EB6817AE7.url = https://web-grupoeurosa.vercel.app/argentina/producto/b3d9
+PopupWebFrameBehaviour_5DFF8298_D459_4EF5_41D8_E0D81B4C240F.url = https://web-grupoeurosa.vercel.app/argentina/producto/b3d9
+PopupWebFrameBehaviour_A47B2C53_D427_7A7B_41E4_AAEF961D5E18.url = https://web-grupoeurosa.vercel.app/argentina/producto/cl40?color=CL40N
+PopupWebFrameBehaviour_5DFED29B_D459_4EEB_41DB_826EDE57107F.url = https://web-grupoeurosa.vercel.app/argentina/producto/cl40?color=CL40N
+PopupWebFrameBehaviour_BE8B109D_D427_4AEF_41DF_3BA3634DE6A6.url = https://web-grupoeurosa.vercel.app/argentina/producto/cl?color=CLN
+PopupWebFrameBehaviour_5DFD429A_D459_4EF5_41D8_FE0E631D87D6.url = https://web-grupoeurosa.vercel.app/argentina/producto/cl?color=CLN
+PopupWebFrameBehaviour_A5631EE1_D427_5657_41E1_27DE34C5E2C5.url = https://web-grupoeurosa.vercel.app/argentina/producto/csip?color=CSIPN
+PopupWebFrameBehaviour_A480BCD7_D427_5A7C_41DD_7BCAC2C9B2C3.url = https://web-grupoeurosa.vercel.app/argentina/producto/csip?color=CSIPN
+PopupWebFrameBehaviour_5DFD629C_D459_4EED_41E2_FC332F9E7D05.url = https://web-grupoeurosa.vercel.app/argentina/producto/csip?color=CSIPN
+PopupWebFrameBehaviour_5DFF229B_D459_4EEB_41D5_2F3A4767EA05.url = https://web-grupoeurosa.vercel.app/argentina/producto/csip?color=CSIPN
+PopupWebFrameBehaviour_5DC2C291_D459_4EF7_41E6_45A6ABCD32CD.url = https://web-grupoeurosa.vercel.app/argentina/producto/euro18?color=EURO18N
+PopupWebFrameBehaviour_B26C5BEA_D43B_5E55_41BD_6CFE60E55B97.url = https://web-grupoeurosa.vercel.app/argentina/producto/euro18?color=EURO18N
+PopupWebFrameBehaviour_BFA41FA9_D427_56D7_41AB_E5AC4E26B118.url = https://web-grupoeurosa.vercel.app/argentina/producto/gt3560n
+PopupWebFrameBehaviour_5DC0229A_D459_4EF5_41BA_0D450E89EF01.url = https://web-grupoeurosa.vercel.app/argentina/producto/gt3560n
+PopupWebFrameBehaviour_5DFF1297_D459_4EFB_41C6_B9A30A7DCC00.url = https://web-grupoeurosa.vercel.app/argentina/producto/moa18?color=MOA18N
+PopupWebFrameBehaviour_BFB83597_D439_4AFB_41D0_3CF7A4274E65.url = https://web-grupoeurosa.vercel.app/argentina/producto/moa18?color=MOA18N
+PopupWebFrameBehaviour_5DFFB29B_D459_4EEB_41C9_B64350E57EFD.url = https://web-grupoeurosa.vercel.app/argentina/producto/ovol?color=OVOLN
+PopupWebFrameBehaviour_B9A98B59_D427_FE77_41C6_F309BED57249.url = https://web-grupoeurosa.vercel.app/argentina/producto/ovol?color=OVOLN
+PopupWebFrameBehaviour_5DC17296_D459_4EFD_41E3_A52FC2F5D4F8.url = https://web-grupoeurosa.vercel.app/argentina/producto/plc?color=PLCN
+PopupWebFrameBehaviour_BD7764F8_D439_4A35_41E4_F833DD236980.url = https://web-grupoeurosa.vercel.app/argentina/producto/plc?color=PLCN
+PopupWebFrameBehaviour_B8697B57_D438_DE7B_41C3_A81160A5C5A6.url = https://web-grupoeurosa.vercel.app/argentina/producto/sierram?color=SIERRAMN
+PopupWebFrameBehaviour_5DFD4298_D459_4EF5_41DD_018986E65B9C.url = https://web-grupoeurosa.vercel.app/argentina/producto/sierram?color=SIERRAMN
+
+## Media
+
+### Imágen
+imlevel_D4D67F7C_C5E4_7F27_41E6_7E6EA473EDE8.url = media/panorama_343266F6_3965_E2BA_41AF_782BCE740C7F_HS_l3zngz8w_es.png
+
+### Subtítulo
+panorama_A359323F_AFCC_ADDE_41D0_B1FD1C0608EE.subtitle = Dormitorio
+panorama_C318335B_C9BA_53FA_41C8_C4C58660BE42.subtitle = Dormitorio
+
+### Título
+panorama_C318335B_C9BA_53FA_41C8_C4C58660BE42.label = Claro
+panorama_346FD130_3962_5FB6_41B9_83D6F8ACC24C.label = Monoambiente_Cocina
+panorama_34EC9F55_3962_23FE_41AC_92FC7843FB96.label = Monoambiente_Dormitorio
+panorama_340DAAA6_3962_2D5A_41C7_214A01C766BF.label = Monoambiente_Living
+panorama_343266F6_3965_E2BA_41AF_782BCE740C7F.label = Monoambiente_SIP
+panorama_A359323F_AFCC_ADDE_41D0_B1FD1C0608EE.label = Oscuro
+
+## Skin
+
+### Botón
+Button_E1C90F5B_CFAC_0B8B_41E3_5FED59DF7C17.label = Imagenes
+Button_E5EB45A7_CAC9_D749_41AE_F898351849F3.label = Video
+
+### Etiqueta
+Label_E189F2C7_C983_D71E_41E5_8C36B210592E_mobile.text = Claro
+Label_C232EAE8_D3DA_E08A_41CF_D0E38D945072.text = Código: TOP
+Label_EA9823B3_C985_D576_41DE_ADA593665002_mobile.text = Estilos
+Label_EDDAA437_C985_F37E_41D9_5F08EF4C0C5F_mobile.text = Oscuro
+Label_83621335_CFA4_1B9F_41E8_7C80200F6DD0.text = Puerta TOP
+Label_E8DBDE1D_CACA_757E_41A7_F59CEA87D28E_mobile.text = Puerta TOP
+Label_ED2BF7AC_CEA4_7A8D_41DE_1A75D08482A7.text = ______________________________________________________________________________________________________________________________________________________________________________________________________
+
+### Imágen
+Image_D837AE1E_C99D_AF2F_41E5_D6D30642045C.url = skin/Image_D837AE1E_C99D_AF2F_41E5_D6D30642045C_es.png
+Image_D837AE1E_C99D_AF2F_41E5_D6D30642045C_mobile.url = skin/Image_D837AE1E_C99D_AF2F_41E5_D6D30642045C_mobile_es.png
+Image_DA566BB9_CAFC_2C53_41DA_2134F3B91021.url = skin/Image_DA566BB9_CAFC_2C53_41DA_2134F3B91021_es.png
+Image_DBC7FBC7_CAFC_2C3F_41D9_0D5104393661.url = skin/Image_DBC7FBC7_CAFC_2C3F_41D9_0D5104393661_es.png
+Image_DC51E5DF_C5E4_8361_41C7_9FCB6C3A1767_mobile.url = skin/Image_DC51E5DF_C5E4_8361_41C7_9FCB6C3A1767_mobile_es.png
+Image_DC6AC579_CAC4_24D3_41D8_FD97EBA7FC8A.url = skin/Image_DC6AC579_CAC4_24D3_41D8_FD97EBA7FC8A_es.png
+Image_DCB6ADE4_C5E4_8327_41DF_3EC426D2AD37_mobile.url = skin/Image_DCB6ADE4_C5E4_8327_41DF_3EC426D2AD37_mobile_es.png
+Image_DF1D74C5_CAC5_E433_41E3_2191DC73B188.url = skin/Image_DF1D74C5_CAC5_E433_41E3_2191DC73B188_es.png
+Image_E19EFC3E_CEA4_0D8D_41DC_EE4A330E8BD0.url = skin/Image_E19EFC3E_CEA4_0D8D_41DC_EE4A330E8BD0_es.png
+
+### Texto Multilínea
+HTMLText_9AB5C697_D4EF_56FB_41A8_EC49CB9E7DAE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:0.9375vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:0.94vw;font-family:'Gotham Light';">Seleccione estilo</SPAN></SPAN></DIV></div>
+HTMLText_D29EA3FD_CACC_63D3_41B0_0B970B9677EC.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:119%;text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Gotham Medium';">Esquemas técnicos:</SPAN></SPAN></DIV></div>
+HTMLText_F1631718_D3E7_BCD9_41D4_621BC0A1F2B6.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:0.75vmax;"><BR STYLE="display:inline-block; letter-spacing:0vmax; white-space:pre-wrap;color:#000000;font-size:0.75vmax;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:60%;text-align:left;font-size:0.9386733416770964vmax;"><SPAN STYLE="vertical-align:super;display:inline-block; letter-spacing:0vmax; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:0.94vmax;font-family:'Gotham Medium';"><B>Espesor del vidrio </B></SPAN><SPAN STYLE="color:#333333;font-size:0.94vmax;font-family:'Gotham Light';"><B>                                                         </B></SPAN><SPAN STYLE="color:#333333;font-size:0.94vmax;font-family:'Gill Sans Ultra Bold';"><B>·</B></SPAN><SPAN STYLE="color:#333333;font-size:0.94vmax;font-family:'Gotham Light';"><B> 3                                                                                           </B></SPAN><SPAN STYLE="color:#333333;font-size:0.94vmax;font-family:'Gill Sans Ultra Bold';"><B>·</B></SPAN><SPAN STYLE="color:#333333;font-size:0.94vmax;font-family:'Gotham Light';"><B> 4</B></SPAN></SPAN></DIV></div>
+HTMLText_CF21C9E7_D3E8_B777_41BE_74501F94A825.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:0.75vmax;"><BR STYLE="display:inline-block; letter-spacing:0vmax; white-space:pre-wrap;color:#000000;font-size:0.75vmax;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:60%;text-align:left;font-size:0.9386733416770964vmax;"><SPAN STYLE="display:inline-block; letter-spacing:0vmax; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:0.94vmax;font-family:'Gotham Medium';"><B>Espesor del vidrio </B></SPAN><SPAN STYLE="color:#333333;font-size:0.94vmax;font-family:'Gotham Light';"><B>                                                         </B></SPAN><SPAN STYLE="color:#333333;font-size:0.94vmax;font-family:'Gill Sans Ultra Bold';"><B>·</B></SPAN><SPAN STYLE="color:#333333;font-size:0.94vmax;font-family:'Gotham Light';"><B> 3                                                                                           </B></SPAN><SPAN STYLE="color:#333333;font-size:0.94vmax;font-family:'Gill Sans Ultra Bold';"><B>·</B></SPAN><SPAN STYLE="color:#333333;font-size:0.94vmax;font-family:'Gotham Light';"><B> 4</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.94vmax;"><BR STYLE="display:inline-block; letter-spacing:0vmax; white-space:pre-wrap;color:#000000;font-size:0.75vmax;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Monoambiente_Final

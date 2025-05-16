@@ -1,0 +1,54 @@
+@font-face {
+   font-family: "Gotham Light";
+   src: url("fonts/Gotham-Light.woff") format("woff"), url("fonts/Gotham-Light.eot") format("embedded-opentype"), url("fonts/Gotham-Light.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Gotham Light";
+   src: url("fonts/Gotham-LightItalic.woff") format("woff"), url("fonts/Gotham-LightItalic.eot") format("embedded-opentype"), url("fonts/Gotham-LightItalic.otf") format("opentype");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Gotham Medium";
+   src: url("fonts/Gotham-Medium.woff") format("woff"), url("fonts/Gotham-Medium.eot") format("embedded-opentype"), url("fonts/Gotham-Medium.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Gotham Medium";
+   src: url("fonts/Gotham-MediumItalic.woff") format("woff"), url("fonts/Gotham-MediumItalic.eot") format("embedded-opentype"), url("fonts/Gotham-MediumItalic.otf") format("opentype");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Gill Sans Ultra Bold";
+   src: url("fonts/Gill Sans Ultra Bold.woff") format("woff"), url("fonts/Gill Sans Ultra Bold.eot") format("embedded-opentype"), url("fonts/Gill Sans Ultra Bold.TTF") format("truetype"), url("fonts/Gill Sans Ultra Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Gotham";
+   src: url("fonts/Gotham-Book.woff") format("woff"), url("fonts/Gotham-Book.eot") format("embedded-opentype"), url("fonts/Gotham-Book.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Gotham";
+   src: url("fonts/Gotham-Bold.woff") format("woff"), url("fonts/Gotham-Bold.eot") format("embedded-opentype"), url("fonts/Gotham-Bold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Gotham";
+   src: url("fonts/Gotham-BoldItalic.woff") format("woff"), url("fonts/Gotham-BoldItalic.eot") format("embedded-opentype"), url("fonts/Gotham-BoldItalic.otf") format("opentype");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Gotham";
+   src: url("fonts/Gotham-BookItalic.woff") format("woff"), url("fonts/Gotham-BookItalic.eot") format("embedded-opentype"), url("fonts/Gotham-BookItalic.otf") format("opentype");
+   font-weight: normal;
+   font-style: italic;
+}
